@@ -1,6 +1,6 @@
 # QWindowKitty
 
-QWindowKitty 是基于 QWindowKit 的修改版，旨在简化构建流程。
+QWindowKitty 是基于 [QWindowKit](https://github.com/stdware/qwindowkit) 的修改版，旨在简化构建流程。
 
 ## 主要变更
 
